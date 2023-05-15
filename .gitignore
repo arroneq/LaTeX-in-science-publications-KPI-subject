@@ -1,0 +1,14 @@
+*/*
+
+!/Diploma template/Chapters
+!/Diploma template/Images
+
+!/Pgfplots/data
+!/Pgfplots/images
+
+!*.tex
+!*.cls
+!*.bib
+!*.pdf
+
+!*.png
